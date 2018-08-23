@@ -230,5 +230,11 @@ input[type=submit] {
     align-self: center;
     padding: auto;
     float: none;
+    margin: auto 30px;
+    align-self: auto;
+  }
+  .auth-image {
+    width: 100%;
+    margin: 20px auto;
   }
 }
